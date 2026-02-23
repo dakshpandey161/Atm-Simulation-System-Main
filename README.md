@@ -1,17 +1,4 @@
-﻿# Atm-Simulation-System-Main
-
-## 👨‍💻 Team Members
-
-| S.No | Name | Class Roll No | University Roll No | Section |
-|------|------|----------------|--------------------|----------|
-| 1 | **Daksh Pandey** | 20 | 2315000667 | 3M |
-| 2 | **Kamal Jindal** | 30 | 2315001047 | 3M |
-| 3 | **Aryan Gupta** | 13 | 2315000458 | 3M |
-| 4 | **Abhinav** | 02 | 2315000033 | 3M |
-| 5 | **Kshitij Rajput** | 35 | 2315001200 | 3M |
-
----
-
+﻿# Atm-Simulation-System-Main
 ## 🏫 Project Overview
 The **ATM Simulation System** is a Java-based project designed to simulate the core functionalities of an Automated Teller Machine (ATM).  
 It allows users to:
